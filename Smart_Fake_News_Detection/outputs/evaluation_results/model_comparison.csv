@@ -1,3 +1,0 @@
-model,accuracy,precision_macro,recall_macro,f1_macro
-Logistic Regression,1.0,1.0,1.0,1.0
-Multinomial Naive Bayes,1.0,1.0,1.0,1.0

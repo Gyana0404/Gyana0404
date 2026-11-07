@@ -1,3 +1,0 @@
-Model classification: LIKELY REAL
-Model confidence (not probability of truth): 83.9%
-The system does not independently verify the claim or its source.

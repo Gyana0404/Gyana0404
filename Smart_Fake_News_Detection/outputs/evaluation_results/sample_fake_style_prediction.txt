@@ -1,3 +1,0 @@
-Model classification: LIKELY FAKE
-Model confidence (not probability of truth): 63.4%
-The system does not independently verify the claim or its source.
