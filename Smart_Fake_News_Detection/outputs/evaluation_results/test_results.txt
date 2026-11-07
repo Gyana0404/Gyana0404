@@ -1,0 +1,8 @@
+test_saved_model_predicts (test_artifacts.SavedArtifactTests.test_saved_model_predicts) ... ok
+test_clean_text (test_pipeline.FakeNewsTests.test_clean_text) ... ok
+test_dataset_schema (test_pipeline.FakeNewsTests.test_dataset_schema) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.027s
+
+OK

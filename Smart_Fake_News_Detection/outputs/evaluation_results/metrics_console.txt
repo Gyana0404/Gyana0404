@@ -1,0 +1,11 @@
+Logistic Regression
+  accuracy: 1.0000
+  precision_macro: 1.0000
+  recall_macro: 1.0000
+  f1_macro: 1.0000
+Multinomial Naive Bayes
+  accuracy: 1.0000
+  precision_macro: 1.0000
+  recall_macro: 1.0000
+  f1_macro: 1.0000
+Selected: Logistic Regression
